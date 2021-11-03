@@ -8,7 +8,7 @@ To get started, access the app through the following link:
 https://vonage-hackathon.herokuapp.com/
 
 ## If you wish to create a work room
-Next, set up the files that you want to work on in your room, and click the Make Room button.  
+Next, set up the files that you would like to work on in your room, and click the Make Room button.  
 Finally, click join room, and you'll be taken to your room, where you can begin working on your configured files with your team!
 
 ## If you wish to join a pre-existing room
